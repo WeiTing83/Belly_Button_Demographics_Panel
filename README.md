@@ -5,7 +5,7 @@ Using ploty to build up interactive dashboard to visualize the diversity of huma
 navel bacteria existing in around 153 volunteers.
 >
 ### Dashboard:
-URL : 
+URL : https://weiting83.github.io/Belly_Button_Demographics_Panel/
 >
 ### Result: 
 In order to visualize the bacterial data for each volunteer, we organize the
@@ -21,4 +21,4 @@ understand the diversity change in bacterial species correlated with washing
 frequency.
 
 ##### <Fig.1 Dashboard >
-![dashboard]()
+![dashboard](https://github.com/WeiTing83/Belly_Button_Demographics_Panel/blob/main/dashboard.png)
